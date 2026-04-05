@@ -1,3 +1,7 @@
+#Nama   : DODI WIJAYA
+#NIM    : F1D02310047
+#Kelas  : Pemrograman Visual D
+
 import sys
 from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
                              QHBoxLayout, QLabel, QFrame, QStackedWidget, 
